@@ -1,4 +1,4 @@
-# 🔥 Attendancf bcidbciudcbi  Management System 🔥 #
+# 🔥 Attendance  Management System 🔥 #
 ![Dashboard](ovfjnhttps://i.ibb.co/cxpzpSK/Attendance-Management-System-Project-In-Java-Student-Information.webp "Admin Dashboard")
 This project is a Java Swing-based application for managing attendance records in schools and colleges.
 
